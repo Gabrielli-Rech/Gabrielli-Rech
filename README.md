@@ -25,7 +25,7 @@ Estou cursando T.I no Senac Tech.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,javascript,figma,photoshop,php,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,javascript,figma,photoshop,vscode" />
   </a>
 </p>
 
