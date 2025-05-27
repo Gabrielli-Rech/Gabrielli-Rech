@@ -5,11 +5,9 @@
 
 </div>
 
-
 Olá, eu sou a Gabrielli Rech.
-
-Estou cursando T.I no Senac Tech.
-
+Formada no curso Técnico em Informática
+E estou fazendo faculdade de Análise e Desenvolvimento de Sistemas (ADS)
 
 <br/>
 
