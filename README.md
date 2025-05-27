@@ -1,6 +1,10 @@
-<h1 align="left">✨ Gabrielli Rech dos Reis ✨</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200" alt="Boas-vindas">
+</p>
 
-<p>
+<h1 align="center">✨ Gabrielli Rech dos Reis ✨</h1>
+
+<p align="center">
 Olá, eu sou a <strong>Gabrielli Rech</strong>!<br>
 🎓 Formada em Técnico em Informática<br>
 🎓 Graduando em Análise e Desenvolvimento de Sistemas (ADS)<br>
@@ -9,19 +13,41 @@ Olá, eu sou a <strong>Gabrielli Rech</strong>!<br>
 
 ---
 
+### 📢 Projeto em destaque
+
+<p align="center">
+  <a href="https://github.com/Gabrielli-Rech/seu-projeto">
+    <img src="https://raw.githubusercontent.com/Gabrielli-Rech/seu-projeto/main/preview.png" alt="Preview do projeto" width="400" />
+  </a>
+  <br>
+  <a href="https://github.com/Gabrielli-Rech/seu-projeto" target="_blank">Confira o projeto no GitHub!</a>
+</p>
+
+---
+
 ### 🚀 Skills
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,javascript,figma,photoshop,vscode,bootstrap" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,javascript,figma,photoshop,vscode,bootstrap" />
+</p>
+
+---
+
+### 🏆 Conquistas e Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Alura-Bootstrap5-blue?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Alura-CSS-responsive-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Alura-HTML%20%26%20CSS-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/Alura-AdobeIllustrator-orange?style=for-the-badge&logo=adobeillustrator" />
+  <img src="https://img.shields.io/badge/Alura-AdobePhotoshop-blue?style=for-the-badge&logo=adobephotoshop" />
 </p>
 
 ---
 
 ### 📬 Contato
 
-<p align="left">
+<p align="center">
   <a href="mailto:gabriellirech78@email.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -35,22 +61,11 @@ Olá, eu sou a <strong>Gabrielli Rech</strong>!<br>
 
 ---
 
-### 📅 Minha Jornada
-
-- 2022 → Comecei meu estágio no CAFF.
-- 2025 → Iniciei a faculdade de ADS. 
-- 2025 → Finalizei meu curso em Técnico em Informática.
-- 2025 → Finalizei meu primeiro estágio e comecei o segundo estágio.
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielli-Rech&show_icons=true&count_private=true&theme=vue-dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielli-Rech&layout=compact&theme=vue-dark"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielli-Rech&show_icons=true&count_private=true&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielli-Rech&layout=compact&theme=vue-dark"/>
 </div>
 
 ---
