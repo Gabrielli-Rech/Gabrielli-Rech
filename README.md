@@ -7,6 +7,7 @@
 
 Olá, eu sou a Gabrielli Rech.
 Formada no curso Técnico em Informática
+<br>
 E estou fazendo faculdade de Análise e Desenvolvimento de Sistemas (ADS)
 
 <br/>
