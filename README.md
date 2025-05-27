@@ -44,6 +44,23 @@ Olá, eu sou a <strong>Gabrielli Rech</strong>!<br>
 
 ---
 
+### 📚 Cursos Concluídos — Alura
+
+- **Bootstrap 5:** novos recursos e práticas recomendadas  
+- **CSS:** ajustando a acessibilidade visual em um projeto  
+- **CSS:** Flexbox e layouts responsivos  
+- **Bootstrap 5:** crie uma landing page responsiva  
+- **HTML e CSS:** cabeçalho, footer e variáveis CSS  
+- **HTML e CSS:** trabalhando com responsividade e publicação  
+- **Arquitetura CSS:** descomplicando os problemas  
+- **Acessibilidade Web Parte 2:** componentes acessíveis com JavaScript  
+- **Acessibilidade no HTML:** código semântico para inclusão  
+- **Adobe Illustrator:** desenho vetorial  
+- **Adobe Photoshop:** conceitos essenciais  
+- **Design:** entenda e conheça a área  
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
