@@ -17,8 +17,7 @@ Olá, eu sou a <strong>Gabrielli Rech</strong>!<br>
 
 <p align="center">
   <a href="https://github.com/Gabrielli-Rech/Titan-Fit">
-    <img src="![Logo](https://github.com/user-attachments/assets/f3322a96-aa43-439e-8544-b0629c53ce22)
-" alt="Preview do projeto" width="400" />
+    <img src="![Logo](https://github.com/user-attachments/assets/fb12e53d-0a2a-48af-9322-3d9db9a25378)" alt="Preview do projeto" width="400" />
   </a>
   <br>
   <a href="https://github.com/Gabrielli-Rech/Titan-Fit" target="_blank">Confira o projeto no GitHub!</a>
@@ -38,7 +37,6 @@ Olá, eu sou a <strong>Gabrielli Rech</strong>!<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Alura-Bootstrap5-blue?style=for-the-badge&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/Alura-CSS-responsive-blue?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/Alura-HTML%20%26%20CSS-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/Alura-AdobeIllustrator-orange?style=for-the-badge&logo=adobeillustrator" />
   <img src="https://img.shields.io/badge/Alura-AdobePhotoshop-blue?style=for-the-badge&logo=adobephotoshop" />
