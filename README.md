@@ -4,7 +4,7 @@
 Olá, eu sou a <strong>Gabrielli Rech</strong>!<br>
 🎓 Formada em Técnico em Informática<br>
 🎓 Graduando em Análise e Desenvolvimento de Sistemas (ADS)<br>
-🚀 Apaixonada por tecnologia, programação e design
+🚀 Apaixonada por tecnologia, programação e jogos
 </p>
 
 ---
