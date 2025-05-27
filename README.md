@@ -35,6 +35,15 @@ Olá, eu sou a <strong>Gabrielli Rech</strong>!<br>
 
 ---
 
+### 📅 Minha Jornada
+
+- 2022 → Comecei meu estágio no CAFF.
+- 2025 → Iniciei a faculdade de ADS. 
+- 2025 → Finalizei meu curso em Técnico em Informática.
+- 2025 → Finalizei meu primeiro estágio e comecei o segundo estágio.
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
