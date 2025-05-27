@@ -3,7 +3,7 @@
 <p>
 Olá, eu sou a <strong>Gabrielli Rech</strong>!<br>
 🎓 Formada em Técnico em Informática<br>
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas (ADS)<br>
+🎓 Graduando em Análise e Desenvolvimento de Sistemas (ADS)<br>
 🚀 Apaixonada por tecnologia, programação e design
 </p>
 
@@ -22,13 +22,13 @@ Olá, eu sou a <strong>Gabrielli Rech</strong>!<br>
 ### 📬 Contato
 
 <p align="left">
-  <a href="mailto:gabrielli@email.com" target="_blank">
+  <a href="mailto:gabriellirech78@email.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Gabrielli-Rech" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/Gabrielli Rech" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
