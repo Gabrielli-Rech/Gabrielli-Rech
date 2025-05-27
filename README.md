@@ -17,7 +17,8 @@ Olá, eu sou a <strong>Gabrielli Rech</strong>!<br>
 
 <p align="center">
   <a href="https://github.com/Gabrielli-Rech/Titan-Fit">
-    <img src="![Logo](https://github.com/user-attachments/assets/4a11c1dc-dc6e-41c8-96c0-9f6765e1b747)" alt="Preview do projeto" width="400" />
+    <img src="![Logo](https://github.com/user-attachments/assets/f3322a96-aa43-439e-8544-b0629c53ce22)
+" alt="Preview do projeto" width="400" />
   </a>
   <br>
   <a href="https://github.com/Gabrielli-Rech/Titan-Fit" target="_blank">Confira o projeto no GitHub!</a>
