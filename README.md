@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200" alt="Boas-vindas">
+  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="200" alt="Welcome GIF" />
 </p>
 
 <h1 align="center">✨ Gabrielli Rech dos Reis ✨</h1>
@@ -16,11 +16,11 @@ Olá, eu sou a <strong>Gabrielli Rech</strong>!<br>
 ### 📢 Projeto em destaque
 
 <p align="center">
-  <a href="https://github.com/Gabrielli-Rech/seu-projeto">
+  <a href="https://github.com/Gabrielli-Rech/Titan-Fit">
     <img src="https://raw.githubusercontent.com/Gabrielli-Rech/seu-projeto/main/preview.png" alt="Preview do projeto" width="400" />
   </a>
   <br>
-  <a href="https://github.com/Gabrielli-Rech/seu-projeto" target="_blank">Confira o projeto no GitHub!</a>
+  <a href="https://github.com/Gabrielli-Rech/Titan-Fit" target="_blank">Confira o projeto no GitHub!</a>
 </p>
 
 ---
