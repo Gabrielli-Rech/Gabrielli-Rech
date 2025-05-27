@@ -25,7 +25,7 @@ E estou fazendo faculdade de Análise e Desenvolvimento de Sistemas (ADS)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,javascript,figma,photoshop,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,javascript,figma,photoshop,vscode,bootstrap" />
   </a>
 </p>
 
