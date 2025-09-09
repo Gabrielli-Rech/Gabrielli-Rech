@@ -85,11 +85,3 @@
   </picture>
 </p>
 
----
-
-## 💡 Extras que podemos adicionar futuramente
-
-- Cards para cada projeto com mini descrição e link
-- GIFs ou imagens demonstrando os projetos
-- Seção de blog ou artigos técnicos
-- Dark/Light mode toggle (interativo via GitHub Actions)
