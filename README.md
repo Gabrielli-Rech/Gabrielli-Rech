@@ -16,7 +16,7 @@ Olá! 👋 Sou uma entusiasta de tecnologia e desenvolvedora em formação. Atua
 
 - 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas (ADS)**.
 - 🛠️ Formada como **Técnico em Informática** pelo SENAC.
-- 
+  
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
