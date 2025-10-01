@@ -28,11 +28,11 @@ Olá! 👋 Sou uma entusiasta de tecnologia e desenvolvedora em formação. Atua
 
 ## 🌟 Projeto em Destaque
 <div align="center">
-  <h3>Titan Fit - App de Academia</h3>
+  <h3>Titan Fit - Site de Academia</h3>
   <a href="https://github.com/Gabrielli-Rech/Titan-Fit" target="_blank">
     <img src="https://github.com/user-attachments/assets/fb12e53d-0a2a-48af-9322-3d9db9a25378" alt="Titan-Fit" width="450" />
   </a>
-  <p><i>Um aplicativo de gerenciamento para academias desenvolvido como projeto de conclusão do curso técnico.</i></p>
+  <p><i>Um Site de gerenciamento para academias desenvolvido como projeto de conclusão do curso técnico.</i></p>
   <p><b><a href="https://github.com/Gabrielli-Rech/Titan-Fit" target="_blank">🔗 Confira o repositório</a></b></p>
 </div>
 
