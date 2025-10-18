@@ -1,13 +1,12 @@
-<div align="center">
-  <h1> Gabrielli Rech dos Reis</h1>
-  <p><strong>Desenvolvedora de Software • Estudante de ADS</strong></p>
+ <h1> Gabrielli Rech dos Reis</h1>
+  <p><strong>Desenvolvedora de Software • Estudante de Análise e Desenvolvimento de Sistemas • Técnica de Informática </strong></p>
   <p><i>Transformando café em código e ideias em soluções criativas </i></p>
 
   <p>
-    <a href="[https://www.linkedin.com/in/gabrielli-rech/(https://www.linkedin.com/in/gabrielli-rech-721524278/)](https://www.linkedin.com/in/gabrielli-rech-721524278/)" target="_blank">
+    <a href="https://www.linkedin.com/in/gabrielli-rech-721524278/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:gabriellirech78@email.com" target="_blank">
+    <a href="mailto:gabriellirech78@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://github.com/Gabrielli-Rech" target="_blank">
@@ -21,10 +20,10 @@
 
 ## 🌟 Sobre mim
 
-> “Programar é mais do que escrever código — é resolver problemas, criar experiências e dar vida a ideias. Sou movida por curiosidade, aprendizado constante e a vontade de impactar o mundo através da tecnologia.”
+> “Programar é mais do que escrever código — é resolver problemas, criar experiências e dar vida a ideias. Sou movida pela curiosidade, aprendizado constante e pelo desejo de impactar o mundo através da tecnologia.”
 
 <p align="center">
-  <i>Entre linhas de código, bugs e commits, o que me move é a busca por criar algo que realmente faça a diferença. </i>
+  <i>Entre commits e deploys, meu foco é simples: aprender, evoluir e criar coisas incríveis. </i>
 </p>
 
 ---
@@ -34,6 +33,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,javascript,html,css,bootstrap,py,php,mysql,git,vscode,figma,photoshop" alt="Tech Stack" />
   <br/>
+  
 </div>
 
 ---
@@ -50,12 +50,12 @@
     <td width="55%" valign="top" style="padding-left: 20px;">
       <h3>🏋️‍♀️ Titan Fit — Sistema de Gestão para Academias</h3>
       <p>
-        O <strong>Titan Fit</strong> é uma plataforma web desenvolvida com <strong>PHP + MySQL</strong>, criada para otimizar a administração de academias e melhorar a experiência dos alunos.
+        O <strong>Titan Fit</strong> é uma aplicação web desenvolvida com <strong>PHP + MySQL</strong>, criada para facilitar a administração de academias e oferecer uma experiência mais intuitiva e eficiente para alunos e gestores.
       </p>
       <ul>
         <li>📋 Cadastro e controle de alunos, planos e treinos personalizados</li>
-        <li>📱 Layout responsivo e intuitivo</li>
-        <li>📊 Relatórios automáticos e acompanhamento de desempenho</li>
+        <li>📱 Interface responsiva e moderna</li>
+        <li>📊 Relatórios automatizados e acompanhamento de desempenho</li>
       </ul>
       <a href="https://github.com/Gabrielli-Rech/Titan-Fit" target="_blank"><strong>🔗 Ver no GitHub</strong></a>
     </td>
