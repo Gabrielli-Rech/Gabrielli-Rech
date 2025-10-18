@@ -1,72 +1,98 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="200" alt="Welcome GIF" />
+  <h1> Gabrielli Rech dos Reis</h1>
+  <p><strong>Desenvolvedora de Software • Estudante de ADS</strong></p>
+  <p><i>Transformando café em código e ideias em soluções criativas </i></p>
 
-  <h1>✨ Gabrielli Rech dos Reis ✨</h1>
-
-  <p>Desenvolvedora em formação apaixonada por transformar ideias em código e explorar o universo dos games 🎮</p>
-
-  <a href="mailto:gabriellirech78@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gabrielli-rech/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <p>
+    <a href="https://www.linkedin.com/in/gabrielli-rech/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:gabriellirech78@email.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/Gabrielli-Rech" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+  <p>📍 Porto Alegre • RS • Brasil</p>
 </div>
 
 ---
 
-## 👩‍💻 Sobre Mim
-Olá! 👋 Sou uma entusiasta de tecnologia e desenvolvedora em formação. Atualmente, estou mergulhando no universo de **Análise e Desenvolvimento de Sistemas**, sempre em busca de novos desafios e aprendizados. 
+## 🌟 Sobre mim
 
-- 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas (ADS)**.
-- 🛠️ Formada como **Técnico em Informática** pelo SENAC.
-  
+> “Programar é mais do que escrever código — é resolver problemas, criar experiências e dar vida a ideias. Sou movida por curiosidade, aprendizado constante e a vontade de impactar o mundo através da tecnologia.”
+
+<p align="center">
+  <i>Entre linhas de código, bugs e commits, o que me move é a busca por criar algo que realmente faça a diferença. </i>
+</p>
+
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🧰 Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,bootstrap,mysql,git,vscode,figma,photoshop,py,php" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,bootstrap,py,php,mysql,git,vscode,figma,photoshop" alt="Tech Stack" />
+  <br/>
 </div>
 
 ---
 
-## 🌟 Projeto em Destaque
+## 🏆 Projeto em Destaque — Titan Fit
+
+<table width="100%">
+  <tr>
+    <td width="45%" valign="top">
+      <a href="https://github.com/Gabrielli-Rech/Titan-Fit" target="_blank">
+        <img src="https://github.com/user-attachments/assets/fb12e53d-0a2a-48af-9322-3d9db9a25378" alt="Preview do Projeto Titan Fit" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);" />
+      </a>
+    </td>
+    <td width="55%" valign="top" style="padding-left: 20px;">
+      <h3>🏋️‍♀️ Titan Fit — Sistema de Gestão para Academias</h3>
+      <p>
+        O <strong>Titan Fit</strong> é uma plataforma web desenvolvida com <strong>PHP + MySQL</strong>, criada para otimizar a administração de academias e melhorar a experiência dos alunos.
+      </p>
+      <ul>
+        <li>📋 Cadastro e controle de alunos, planos e treinos personalizados</li>
+        <li>📱 Layout responsivo e intuitivo</li>
+        <li>📊 Relatórios automáticos e acompanhamento de desempenho</li>
+      </ul>
+      <a href="https://github.com/Gabrielli-Rech/Titan-Fit" target="_blank"><strong>🔗 Ver no GitHub</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Insights
+
 <div align="center">
-  <h3>Titan Fit - Site de Academia</h3>
-  <a href="https://github.com/Gabrielli-Rech/Titan-Fit" target="_blank">
-    <img src="https://github.com/user-attachments/assets/fb12e53d-0a2a-48af-9322-3d9db9a25378" alt="Titan-Fit" width="450" />
-  </a>
-  <p><i>Um Site de gerenciamento para academias desenvolvido como projeto de conclusão do curso técnico.</i></p>
-  <p><b><a href="https://github.com/Gabrielli-Rech/Titan-Fit" target="_blank">🔗 Confira o repositório</a></b></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielli-Rech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielli-Rech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
 
-## 🏆 Certificações
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Technical%20Essentials-232F3E?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/Cisco-HTML%20Essentials-blue?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/Cisco-CSS%20Essentials-blue?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/Cisco-JavaScript%20Essentials%201-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cisco-English%20for%20IT%201-blue?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/Alura-Adobe%20Illustrator-orange?style=for-the-badge&logo=adobeillustrator" />
-  <img src="https://img.shields.io/badge/Alura-Adobe%20Photoshop-blue?style=for-the-badge&logo=adobephotoshop" />
-  <img src="https://img.shields.io/badge/SENAC-Técnico%20em%20Informática-red?style=for-the-badge" />
-</div>
+## 🏅 Certificações & Conquistas
+
+<details align="center">
+  <summary><strong>📜 Ver Certificados</strong></summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/AWS-Technical%20Essentials-232F3E?style=for-the-badge&logo=amazon-aws" />
+    <img src="https://img.shields.io/badge/Cisco-JavaScript%20Essentials-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/SENAC-Técnico%20em%20Informática-C4001A?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Cisco-HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Alura-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  </p>
+</details>
 
 ---
-
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielli-Rech&show_icons=true&count_private=true&theme=vue-dark&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielli-Rech&layout=compact&langs_count=8&theme=vue-dark"/>
-</div>
-
----
-
-## 🐍 Minhas Contribuições
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giansb/giansb/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giansb/giansb/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/giansb/giansb/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielli-Rech/Gabrielli-Rech/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielli-Rech/Gabrielli-Rech/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Gabrielli-Rech/Gabrielli-Rech/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
