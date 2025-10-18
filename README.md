@@ -21,7 +21,7 @@ Olá! 👋 Sou uma entusiasta de tecnologia e desenvolvedora em formação. Atua
 
 ## 🛠️ Tecnologias e Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,bootstrap,mysql,git,vscode,figma,photoshop,aws" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,bootstrap,mysql,git,vscode,figma,photoshop,py,php" alt="Tecnologias" />
 </div>
 
 ---
