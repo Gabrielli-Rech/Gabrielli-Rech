@@ -4,7 +4,7 @@
   <p><i>Transformando café em código e ideias em soluções criativas </i></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/gabrielli-rech/" target="_blank">
+    <a href="[https://www.linkedin.com/in/gabrielli-rech/](https://www.linkedin.com/in/gabrielli-rech-721524278/)" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:gabriellirech78@email.com" target="_blank">
