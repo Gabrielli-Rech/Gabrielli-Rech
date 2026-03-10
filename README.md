@@ -70,9 +70,13 @@
 | ![Gabrielli Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielli-rech&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielli-rech&theme=dark) |
 | :-: | :-: |
 ---
-<img src="profile/stats.svg" height="180" />
-<img src="profile/top-langs.svg" height="180" />
-
+<br>
+<div align="center">
+  <img 
+    src="https://github-readme-stats-five-ashy-96.vercel.app/api/top-langs/?username=gabrielli-rech&layout=compact&langs_count=6&count_private=true&theme=tokyonight&hide_border=true&hide=html,handlebars,css&card_width=450" 
+  />
+</div>
+<br>
 #### Front-End
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
