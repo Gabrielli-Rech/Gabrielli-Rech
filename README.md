@@ -70,7 +70,8 @@
 | ![Gabrielli Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielli-rech&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielli-rech&theme=dark) |
 | :-: | :-: |
 ---
-
+<img src="profile/stats.svg" height="180" />
+<img src="profile/top-langs.svg" height="180" />
 
 #### Front-End
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
