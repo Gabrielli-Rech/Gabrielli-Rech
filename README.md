@@ -32,7 +32,7 @@ Embora meu foco principal seja criar aplicações web incríveis, minha base té
 ## 🧰 Tech Stack & Arsenal Técnico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,html,css,php,java,python,mysql,prisma,git,vscode,figma,photoshop,arduino" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,php,java,python,mysql,git,vscode,figma,photoshop" alt="Tech Stack" />
 </div>
 <br>
 
@@ -59,10 +59,9 @@ Embora meu foco principal seja criar aplicações web incríveis, minha base té
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-
+  <img src="https://img.shields.io/badge/vscode-F05032?style=for-the-badge&logo=vscode&logoColor=white" alt="vscode">
 </details>
 
----
 
 ## 🚀 Projetos em Destaque
 
