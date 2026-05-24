@@ -100,9 +100,7 @@ Embora meu foco principal seja criar aplicações web incríveis, minha base té
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielli-rech&theme=dark" width="450" />
 </div>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats-five-ashy-96.vercel.app/api/top-langs/?username=gabrielli-rech&layout=compact&langs_count=6&count_private=true&theme=tokyonight&hide_border=true&hide=html,handlebars,css&card_width=450" />
-</div>
+
 
 ---
 
