@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá! Sou Gabrielli Rech dos Reis 👋</h1>
   <p><strong>Desenvolvedora de Software • Estudante de Análise e Desenvolvimento de Sistemas • Técnica de Informática</strong></p>
-  <p><i>Transformando café em código, designs em interfaces e ideias em soluções tecnológicas.</i></p>
+  <p><i>Transformando café em código, designs em interfaces e ideias em soluções tecnológicas!</i></p>
 
   <p>
     <a href="https://www.linkedin.com/in/gabrielli-rech-721524278/" target="_blank">
