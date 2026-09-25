@@ -96,8 +96,12 @@ Embora meu foco principal seja criar aplicações web incríveis, minha base té
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielli-rech&theme=dark" width="55%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielli-rech&theme=dark" width="450" />
+ 
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielli-rech&theme=panda&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielli-rech&theme=panda&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielli-rech&theme=panda&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielli-rech&theme=panda&animation=sequence)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielli-rech&theme=panda&animation=sequence&utcOffset=0)
 </div>
 <br>
 
