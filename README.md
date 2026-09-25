@@ -1,315 +1,132 @@
 <div align="center">
+  <h1>Hi there! I'm Gabrielli Rech dos Reis 👋</h1>
+  <p><strong>Software Developer • Systems Analysis & Development Student • IT Technician</strong></p>
+  <p><i>Turning coffee into code, designs into interfaces, and ideas into tech solutions!</i></p>
 
-# 👋 Hi, I'm Gabrielli Rech
-
-### Software Developer • ADS Student • IT Technician
-
-<p>
-  Building web applications, exploring software architecture, designing interfaces,
-  and turning ideas into useful digital products.
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/gabrielli-rech-721524278/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gabriellirech78@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Gabrielli-Rech" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-📍 Porto Alegre, Brazil 🇧🇷
-
+  <p>
+    <a href="https://www.linkedin.com/in/gabrielli-rech-721524278/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:gabriellirech78@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/Gabrielli-Rech" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+  <p>📍 Porto Alegre • RS • Brazil</p>
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-I'm a **Software Developer and Analysis & Systems Development student** with a background as an **IT Technician**.
+> "Programming is more than just writing code—it's about solving problems, crafting experiences, and bringing ideas to life. I am driven by curiosity, continuous learning, and the desire to make an impact through technology."
 
-My main focus is **Full-Stack Web Development**, but I'm also interested in **UI/UX Design, software architecture, databases, desktop applications, and IoT**.
+I am a versatile developer with a strong passion for the **Full-Stack Web** ecosystem and **UI/UX Design**. I thrive on being involved in the entire product journey: from prototyping a user-friendly interface to architecting a robust back-end structure.
 
-I enjoy being involved in the entire development process — from understanding an idea and designing the interface to building the backend, connecting databases, testing the application, and bringing everything together into a functional product.
-
-> 💡 **I don't just want to write code. I want to understand the problem, design the solution, and build something people can actually use.**
-
-Currently, I'm focused on strengthening my software engineering foundations, improving my development practices, and building increasingly complete projects.
-
-When I'm not coding, there's a good chance I'm either designing something, learning a new technology, or trying to get another Steam achievement. 🎮
+While my main focus is building incredible web applications, my technical foundation goes further: I develop desktop systems, explore IoT integrations, and am always testing new programming languages. Between commits, deployments, and hunting for my next 100% Platinum trophy on Steam, my goal is simple: to continuously evolve and deliver high-impact solutions.
 
 ---
 
-## 🧠 What I Work With
+## 🧰 Tech Stack & Tools
 
 <div align="center">
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nextjs" />
-
-### 💾 Databases & Backend
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,php,java" />
-
-### 🛠️ Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" />
-
-### 🔌 Hardware & IoT
-
-<img src="https://skillicons.dev/icons?i=arduino" />
-
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,php,java,python,mysql,git,vscode,figma,photoshop" alt="Tech Stack" />
 </div>
-
 <br>
 
 <details>
-<summary><strong>📚 Technologies & Skills</strong></summary>
+  <summary><strong>View detailed skills by category</strong></summary>
+  <br>
+  
+  **🌐 Web Development (Front-End & Back-End):** <br><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <br><br>
+  
+  **💻 Software, Data & IoT:** <br><br>
+  <img src="https://img.shields.io/badge/Java-404D59?style=for-the-badge&logo=j" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <br><br>
 
-<br>
-
-**Frontend**
-
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Web Design
-* UI/UX principles
-* React
-* Next.js
-
-**Backend**
-
-* PHP
-* Laravel
-* Java
-* REST APIs
-* MVC architecture
-* Authentication & authorization
-
-**Databases**
-
-* MySQL
-* PostgreSQL
-* Database modeling
-* SQL
-* CRUD systems
-
-**Development Tools**
-
-* Git & GitHub
-* Visual Studio Code
-* Figma
-* Adobe Photoshop
-* XAMPP
-* Linux
-
-**Other Interests**
-
-* IoT & Arduino
-* Software architecture
-* System design
-* 3D web experiences
-* Game development concepts
-
+  **🎨 UI/UX & Workflow:** <br><br>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode">
 </details>
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
-### 🏋️‍♀️ Titan Fit
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Gabrielli-Rech/Titan-Fit" target="_blank">
+        <img src="https://github.com/user-attachments/assets/fb12e53d-0a2a-48af-9322-3d9db9a25378" alt="Titan Fit Project Preview" width="100%" style="border-radius: 10px; border: 1px solid #e1e4e8;" />
+      </a>
+    </td>
+    <td width="50%" valign="top" style="padding-left: 20px;">
+      <h3>🏋️‍♀️ Titan Fit — Gym Management System</h3>
+      <p>
+        Full-Stack web system developed with <strong>PHP and MySQL</strong>. Designed to modernize gym administration, blending complex business rules with a clean, user-friendly interface.
+      </p>
+      <ul>
+        <li>Comprehensive management of members, plans, and workout routines</li>
+        <li>Responsive design heavily focused on UI/UX usability</li>
+        <li>Automated analytics and report generation</li>
+      </ul>
+      <a href="https://github.com/Gabrielli-Rech/Titan-Fit" target="_blank"><strong>🔗 View repository on GitHub</strong></a>
+    </td>
+  </tr>
+</table>
 
-**Gym Management System**
-
-A full-stack web application designed to help gyms manage their daily operations, members, plans, and training routines.
-
-**Tech Stack:** `PHP` `MySQL` `MVC` `Bootstrap` `JavaScript`
-
-**Highlights**
-
-* 👥 Member management
-* 📋 Training and plan management
-* 📊 Reports and administrative features
-* 🔐 Authentication and access control
-* 📱 Responsive interface
-
-<a href="https://github.com/Gabrielli-Rech/Titan-Fit">
-  **→ View repository**
-</a>
-
----
-
-### 📅 AgendWork
-
-**Scheduling & Service Management Platform**
-
-A SaaS-oriented scheduling platform focused on connecting service providers and clients through a modern digital experience.
-
-The project explores **dashboard design, authentication, scheduling workflows, subscription plans, UX, and product-oriented development**.
-
-**Tech Stack:** `PHP` `Laravel` `MySQL` `JavaScript` `Figma`
-
-**Highlights**
-
-* 📆 Appointment management
-* 👤 Client & business dashboards
-* 🔐 Authentication
-* 💳 Subscription plan concepts
-* 🎨 UI/UX prototyping
-* 🌐 SaaS architecture concepts
-
----
-
-### 📦 Inventory Management System
-
-**Desktop Inventory Application**
-
-A Java-based desktop application focused on inventory and warehouse management.
-
-The project applies software engineering concepts such as **MVC architecture, data persistence, CRUD operations, and structured business rules**.
-
-**Tech Stack:** `Java` `SQL` `MVC`
-
----
-
-## 🎨 Design Meets Development
-
-I enjoy working at the intersection of **design and engineering**.
-
-Before writing the code, I like to think about:
-
-```text
-Problem
-   ↓
-User Experience
-   ↓
-Interface & Prototype
-   ↓
-Architecture
-   ↓
-Development
-   ↓
-Testing
-   ↓
-Deployment
-```
-
-Tools such as **Figma and Photoshop** are part of my workflow because I believe a good application needs more than functional code — it also needs a thoughtful experience.
-
----
-
-## 🏗️ Currently Learning
-
-I'm continuously expanding my development skills and currently focusing on:
-
-* 🔹 Advanced PHP & Laravel
-* 🔹 Java & Object-Oriented Programming
-* 🔹 JavaScript ecosystem
-* 🔹 React & modern frontend development
-* 🔹 Database architecture
-* 🔹 REST APIs
-* 🔹 Software architecture
-* 🔹 Git & collaborative development
-* 🔹 English for technology and software development
-
-> 🎯 **Goal:** Become a stronger full-stack developer while building real-world projects that demonstrate both technical and creative skills.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielli-Rech&theme=panda&animation=sequence" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrielli-Rech&theme=panda&animation=sequence" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabrielli-Rech&theme=panda&animation=sequence" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabrielli-Rech&theme=panda&animation=sequence" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gabrielli-Rech&theme=panda&animation=sequence&utcOffset=0" />
-
-</div>
+### 💼 Solution Portfolio
+* **Agendwork:** SaaS Web Platform featuring a C-level dashboard. Heavily focused on user experience and advanced Figma prototyping, alongside exploring the use of Three.js for immersive 3D landing pages.
+* **Warehouse Manager (Gerenciador de Almoxarifado):** Robust Desktop application developed in **Java**, implementing an MVC architecture for strict, secure, and efficient inventory control.
 
 ---
 
 ## 🏅 Certifications & Achievements
 
-<details>
-<summary><strong>📜 View Certifications</strong></summary>
-
-<br>
-
-### 💻 Programming & Development
-
-<img src="https://img.shields.io/badge/Cisco-JavaScript%20Essentials-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Cisco-HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-<br><br>
-
-### ☁️ Cloud & Technology
-
-<img src="https://img.shields.io/badge/AWS-Technical%20Essentials-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-
-<br><br>
-
-### 🎨 Design
-
-<img src="https://img.shields.io/badge/Alura-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-
-<br><br>
-
-### 🎓 Education
-
-<img src="https://img.shields.io/badge/SENAC-IT%20Technician-C4001A?style=for-the-badge" />
-
-<br><br>
-
-> 📌 More certifications and completed courses will be added as I continue my professional development.
-
-</details>
+<p>
+  <!-- Current Certificates -->
+  <img src="https://img.shields.io/badge/Cisco-JavaScript%20Essentials-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Cisco JS" />
+  <img src="https://img.shields.io/badge/Cisco-HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Cisco HTML/CSS" />
+  <img src="https://img.shields.io/badge/AWS-Technical%20Essentials-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/SENAC-IT%20Technician-C4001A?style=for-the-badge" alt="Senac IT" />
+  <img src="https://img.shields.io/badge/Alura-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Alura Photoshop" />
+  
+  <!-- Add new certificates below by copying this format: -->
+  <!-- <img src="https://img.shields.io/badge/Institution-Course_Name-ColorCode?style=for-the-badge" alt="Course Name" /> -->
+</p>
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 GitHub Insights
 
 <div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Gabrielli-Rech/Gabrielli-Rech/output/github-contribution-grid-snake-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Gabrielli-Rech/Gabrielli-Rech/output/github-contribution-grid-snake.svg">
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Gabrielli-Rech/Gabrielli-Rech/output/github-contribution-grid-snake.svg">
-</picture>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielli-rech&theme=panda&animation=sequence" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielli-rech&theme=panda&animation=sequence" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielli-rech&theme=panda&animation=sequence" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielli-rech&theme=panda&animation=sequence" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielli-rech&theme=panda&animation=sequence&utcOffset=0" alt="Productive Time" />
 </div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-**Building, learning, breaking things, fixing them, and doing it all over again.**
-
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Gabrielli-Rech&style=for-the-badge&color=0A66C2" alt="Profile views"/>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielli-Rech/Gabrielli-Rech/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielli-Rech/Gabrielli-Rech/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Gabrielli-Rech/Gabrielli-Rech/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
